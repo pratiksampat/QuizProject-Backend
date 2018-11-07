@@ -21,7 +21,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 require('./app/routes/auth.routes.js')(app);
-// require('./app/routes/quiz.routes.js')(app);
+require('./app/routes/quiz.routes.js')(app);
 
 app.listen(port = process.env.PORT || config.PORT,()=>{
     console.log(`Listening on port ${port}`);
