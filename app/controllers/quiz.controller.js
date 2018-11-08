@@ -18,7 +18,7 @@ exports.nextQuestion = async function(req, res, next){
         prev_level = level;
         questionnaire1 = JSON.stringify(questionnaire);
         JSON.parse(questionnaire1, function(key, value) {
-        if ( value.level === level ) { filtertered.push({key : value}); }
+        if ( value.level === level ) { filtertered.push(value); }
         return value; })
     }
     
