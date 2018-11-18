@@ -9,7 +9,7 @@ exports.nextQuestion = async function(req, res, next){
     var user = await User.findOne({email:email});
     if(!user)
         return res.status(422).send({error: 'No user found'});
-    filtered = []
+    var filtered = []
     JSON.parse(JSON.stringify(questionnaire), function(key, value) {
         if ( value.level === level ) { 
             filtered.push(value);
