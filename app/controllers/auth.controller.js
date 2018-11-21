@@ -12,6 +12,7 @@ function setInfo(request){
     return {
         _id: request._id,
         email: request.email,
+        name: request.name
     };
 }
  
