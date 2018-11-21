@@ -9,7 +9,11 @@ module.exports = (app) => {
    app.post('/register',authController.register);
    app.post('/login',requireLogin,authController.login);
    app.get('/protec', requireAuth, function(req,res){
-       res.send({content: "SUCCESS"});
+       res.send({
+                email: req.user.email,
+                name: req.user.name
+                });
+    //    console.log(req);
    });
    app.get('/',function(req,res){
        res.render('../views/test/index')
