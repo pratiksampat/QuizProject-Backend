@@ -78,8 +78,11 @@ exports.FindChallenge = async function(req, res, next){
 exports.challenge = async function(req,res,next){
     var email = req.headers.email;
     var chal = req.body.chal;
+    res.writeHead(200, { 'Content-Type': 'text/event-stream' });
     Stream.emit("challengeEvent",{"user": chal});
-    res.status(200).send({"success": "challenged"});
+    res.write("done");
+    res.end();
+    // res.status(200).send({"success": "challenged"});
 }
 
 function getRandomkey(min, max) {
