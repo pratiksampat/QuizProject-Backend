@@ -11,7 +11,7 @@ exports.getQuestions = async function(req, res, next){
     var challenger = req.body.challenger;
     var challengee = req.body.challengee;
     var numberQuestions = 10 ; 
-    var len = 272;
+    var len = 271;
 
     if(email == challengee || email == challenger){
         return res.status(422).send({error: 'Cannot challenge yourself! I mean you can but no :)'});
@@ -58,7 +58,7 @@ exports.getQuestions = async function(req, res, next){
 }
 
 //Find somebody to challenege and send them a challenge request
-exports.challenge = async function(req, res, next){
+exports.FindChallenge = async function(req, res, next){
     var email = req.headers.email;
     var user = await User.findOne({email:email});
     if(!user)
@@ -72,9 +72,14 @@ exports.challenge = async function(req, res, next){
         R = Math.floor(Math.random() * num)
         chal = await User.findOne().limit(1).skip(R);
     }
+    res.status(200).send({"user": chal});
+}
 
-    Stream.emit("challengeEvent",{"user": chal.name});
-    res.status(200).send({"user": chal.name});
+exports.challenge = async function(req,res,next){
+    var email = req.headers.email;
+    var chal = req.body.chal;
+    Stream.emit("challengeEvent",{"user": chal});
+    res.status(200).send({"success": "challenged"});
 }
 
 function getRandomkey(min, max) {

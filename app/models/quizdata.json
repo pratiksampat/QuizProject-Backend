@@ -19,7 +19,7 @@
             }
         ],
         "questionText": "Catalytic converters are generally made from",
-        "level": 1
+        "level": 2
     },
     "2": {
         "answers": [
@@ -63,7 +63,7 @@
             }
         ],
         "questionText": "When a helium atom loses an electron it becomes",
-        "level": 3
+        "level": 1
     },
     "4": {
         "answers": [
@@ -85,7 +85,7 @@
             }
         ],
         "questionText": "Heavy metals got their name because compared to other atoms they have",
-        "level": 4
+        "level": 3
     },
     "5": {
         "answers": [
@@ -107,7 +107,7 @@
             }
         ],
         "questionText": "The purest form of Iron is:",
-        "level": 3
+        "level": 5
     },
     "6": {
         "answers": [
@@ -129,7 +129,7 @@
             }
         ],
         "questionText": "Combustion is a",
-        "level": 1
+        "level": 5
     },
     "7": {
         "answers": [
@@ -151,7 +151,7 @@
             }
         ],
         "questionText": "Which of the following is not a form of carbon?",
-        "level": 5
+        "level": 1
     },
     "8": {
         "answers": [
@@ -195,7 +195,7 @@
             }
         ],
         "questionText": "Which of the following is used in pencils?",
-        "level": 3
+        "level": 4
     },
     "10": {
         "answers": [
@@ -239,7 +239,7 @@
             }
         ],
         "questionText": "Acid rain is caused by",
-        "level": 1
+        "level": 3
     },
     "12": {
         "answers": [
@@ -261,7 +261,7 @@
             }
         ],
         "questionText": "The soft silvery metallic element which ionizes easily when heated or exposed to light and is present in atomic clocks is",
-        "level": 4
+        "level": 2
     },
     "13": {
         "answers": [
@@ -283,7 +283,7 @@
             }
         ],
         "questionText": "The process of improving the quality of rubber by heating it with sulphur is called",
-        "level": 2
+        "level": 4
     },
     "14": {
         "answers": [
@@ -327,7 +327,7 @@
             }
         ],
         "questionText": "The alkaloid naturally found in coffee, cocoa and cola nut is",
-        "level": 2
+        "level": 5
     },
     "16": {
         "answers": [
@@ -349,7 +349,7 @@
             }
         ],
         "questionText": "Which of the following is not a noble gas?",
-        "level": 3
+        "level": 5
     },
     "17": {
         "answers": [
@@ -393,7 +393,7 @@
             }
         ],
         "questionText": "Ink is prepared from",
-        "level": 5
+        "level": 4
     },
     "19": {
         "answers": [
@@ -415,7 +415,7 @@
             }
         ],
         "questionText": "Formic acid is produced by",
-        "level": 3
+        "level": 2
     },
     "20": {
         "answers": [
@@ -437,7 +437,7 @@
             }
         ],
         "questionText": "Chemical decomposition of an organic compound by water is called as",
-        "level": 4
+        "level": 5
     },
     "21": {
         "answers": [
@@ -459,7 +459,7 @@
             }
         ],
         "questionText": "Which of the following is not a nitrogenous fertilizer?",
-        "level": 2
+        "level": 1
     },
     "22": {
         "answers": [
@@ -481,7 +481,7 @@
             }
         ],
         "questionText": "CaC₂ on treatment with water gives",
-        "level": 4
+        "level": 2
     },
     "23": {
         "answers": [
@@ -547,7 +547,7 @@
             }
         ],
         "questionText": "Stains of rust on clothes can be removed by",
-        "level": 4
+        "level": 2
     },
     "26": {
         "answers": [
@@ -569,7 +569,7 @@
             }
         ],
         "questionText": "Ethanol containing 5% water is known as",
-        "level": 5
+        "level": 2
     },
     "27": {
         "answers": [
@@ -591,7 +591,7 @@
             }
         ],
         "questionText": "Transboundary pollution (or) Acid rain is caused by",
-        "level": 5
+        "level": 2
     },
     "28": {
         "answers": [
@@ -613,7 +613,7 @@
             }
         ],
         "questionText": "The natural disaster in which carbon dioxide suddenly erupts from a deep lake water is known as",
-        "level": 5
+        "level": 4
     },
     "29": {
         "answers": [
@@ -635,7 +635,7 @@
             }
         ],
         "questionText": "Dry Ice is nothing but",
-        "level": 4
+        "level": 3
     },
     "30": {
         "answers": [
@@ -657,7 +657,7 @@
             }
         ],
         "questionText": "Which one of the following is obtained as slag in a blast furnace?",
-        "level": 5
+        "level": 1
     },
     "31": {
         "answers": [
@@ -679,7 +679,7 @@
             }
         ],
         "questionText": "When H₂ gas is allowed to expand from a region of high pressure to a region of low pressure the temperature of the gas",
-        "level": 3
+        "level": 4
     },
     "32": {
         "answers": [
@@ -767,7 +767,7 @@
             }
         ],
         "questionText": "Pyroligneous acid obtained from wood contains",
-        "level": 5
+        "level": 3
     },
     "36": {
         "answers": [
@@ -789,7 +789,7 @@
             }
         ],
         "questionText": "Which of the following pairs is correctly matched?",
-        "level": 1
+        "level": 2
     },
     "37": {
         "answers": [
@@ -811,7 +811,7 @@
             }
         ],
         "questionText": "Which is not a correct statement?",
-        "level": 1
+        "level": 3
     },
     "38": {
         "answers": [
@@ -833,7 +833,7 @@
             }
         ],
         "questionText": "Which of the following could be used as fuel in propellant or rockets?",
-        "level": 4
+        "level": 1
     },
     "39": {
         "answers": [
@@ -855,7 +855,7 @@
             }
         ],
         "questionText": "The addition of gypsum to portland cement helps in",
-        "level": 5
+        "level": 3
     },
     "40": {
         "answers": [
@@ -877,7 +877,7 @@
             }
         ],
         "questionText": "The Refrigerant ‘FREON’ is",
-        "level": 3
+        "level": 4
     },
     "41": {
         "answers": [
@@ -921,7 +921,7 @@
             }
         ],
         "questionText": "Cement is formed by strongly heating a mixture of",
-        "level": 1
+        "level": 5
     },
     "43": {
         "answers": [
@@ -943,7 +943,7 @@
             }
         ],
         "questionText": "Glass is a",
-        "level": 4
+        "level": 1
     },
     "44": {
         "answers": [
@@ -1009,7 +1009,7 @@
             }
         ],
         "questionText": "The gas that is used in the manufacture of vanaspati ghee is",
-        "level": 1
+        "level": 3
     },
     "47": {
         "answers": [
@@ -1075,7 +1075,7 @@
             }
         ],
         "questionText": "What happens when a drop of glycerol is added to crushed KMnO₄ spread on a paper?",
-        "level": 5
+        "level": 1
     },
     "50": {
         "answers": [
@@ -1097,7 +1097,7 @@
             }
         ],
         "questionText": "Which of the following can be found as pollutants in the drinking water in some parts of India?\n1. Arsenic, 2. Sorbitol, 3. Fluoride, 4. Formaldehyde, 5. Uranium\nSelect the correct answer using the code given below.",
-        "level": 5
+        "level": 1
     },
     "51": {
         "answers": [
@@ -1119,7 +1119,7 @@
             }
         ],
         "questionText": "The most suitable vessel for storing concentrated sulphuric acid is",
-        "level": 4
+        "level": 5
     },
     "52": {
         "answers": [
@@ -1141,7 +1141,7 @@
             }
         ],
         "questionText": "What is the chemical name for ‘Baking Soda’ ?",
-        "level": 5
+        "level": 4
     },
     "53": {
         "answers": [
@@ -1185,7 +1185,7 @@
             }
         ],
         "questionText": "Generally, what is the colour of emerald ?",
-        "level": 4
+        "level": 3
     },
     "55": {
         "answers": [
@@ -1207,7 +1207,7 @@
             }
         ],
         "questionText": "PVC is obtained by the polymerisation of",
-        "level": 2
+        "level": 5
     },
     "56": {
         "answers": [
@@ -1229,7 +1229,7 @@
             }
         ],
         "questionText": "Which variety of glass is heat resistant ?",
-        "level": 4
+        "level": 3
     },
     "57": {
         "answers": [
@@ -1273,7 +1273,7 @@
             }
         ],
         "questionText": "Potassium permanganate is used for purifying drinking water, because it",
-        "level": 1
+        "level": 5
     },
     "59": {
         "answers": [
@@ -1295,7 +1295,7 @@
             }
         ],
         "questionText": "Which of the following imparts deep blue colour to glass ?",
-        "level": 4
+        "level": 5
     },
     "60": {
         "answers": [
@@ -1317,7 +1317,7 @@
             }
         ],
         "questionText": "Which of the following fibres catches fire least ?",
-        "level": 3
+        "level": 2
     },
     "61": {
         "answers": [
@@ -1339,7 +1339,7 @@
             }
         ],
         "questionText": "Which of the following is used as filler in tyre of rubber ?",
-        "level": 4
+        "level": 3
     },
     "62": {
         "answers": [
@@ -1361,7 +1361,7 @@
             }
         ],
         "questionText": "What is the element that is in the highest percentage in the composition of the earth ?",
-        "level": 2
+        "level": 3
     },
     "63": {
         "answers": [
@@ -1383,7 +1383,7 @@
             }
         ],
         "questionText": "Which of the following elements is obtained from the sea algae?",
-        "level": 4
+        "level": 1
     },
     "64": {
         "answers": [
@@ -1405,7 +1405,7 @@
             }
         ],
         "questionText": "Milk tastes sour when it is left in open for some time. This happens due to the formation of",
-        "level": 4
+        "level": 2
     },
     "65": {
         "answers": [
@@ -1427,7 +1427,7 @@
             }
         ],
         "questionText": "The polymerisation of which of the following is used in manufacturing of polythene in industry ?",
-        "level": 1
+        "level": 2
     },
     "66": {
         "answers": [
@@ -1449,7 +1449,7 @@
             }
         ],
         "questionText": "Which of the following chemical materials is responsible for the depletion of ozone layer in the atmosphere ?",
-        "level": 4
+        "level": 5
     },
     "67": {
         "answers": [
@@ -1471,7 +1471,7 @@
             }
         ],
         "questionText": "Which of the following is not a component of chlorophyll ?",
-        "level": 2
+        "level": 1
     },
     "68": {
         "answers": [
@@ -1493,7 +1493,7 @@
             }
         ],
         "questionText": "Cloud is a colloidal dispersion of",
-        "level": 1
+        "level": 4
     },
     "69": {
         "answers": [
@@ -1515,7 +1515,7 @@
             }
         ],
         "questionText": "The fourth state of matter is “known as",
-        "level": 4
+        "level": 3
     },
     "70": {
         "answers": [
@@ -1537,7 +1537,7 @@
             }
         ],
         "questionText": "Which of the following is the petroleum wax ?",
-        "level": 4
+        "level": 3
     },
     "71": {
         "answers": [
@@ -1559,7 +1559,7 @@
             }
         ],
         "questionText": "Which variety of coal contains recognisable traces of the original plant material ?",
-        "level": 2
+        "level": 3
     },
     "72": {
         "answers": [
@@ -1581,7 +1581,7 @@
             }
         ],
         "questionText": "Which is the purest form of iron ?",
-        "level": 5
+        "level": 4
     },
     "73": {
         "answers": [
@@ -1603,7 +1603,7 @@
             }
         ],
         "questionText": "The ratio of pure gold in 18 carat gold is :",
-        "level": 1
+        "level": 3
     },
     "74": {
         "answers": [
@@ -1647,7 +1647,7 @@
             }
         ],
         "questionText": "By-product obtained by soap-Industry is",
-        "level": 1
+        "level": 2
     },
     "76": {
         "answers": [
@@ -1669,7 +1669,7 @@
             }
         ],
         "questionText": "Which one of the following is pure water?",
-        "level": 2
+        "level": 4
     },
     "77": {
         "answers": [
@@ -1691,7 +1691,7 @@
             }
         ],
         "questionText": "Which silver salt is used for making film for photography?",
-        "level": 1
+        "level": 3
     },
     "78": {
         "answers": [
@@ -1713,7 +1713,7 @@
             }
         ],
         "questionText": "Which is used for settling muddy water?",
-        "level": 2
+        "level": 5
     },
     "79": {
         "answers": [
@@ -1735,7 +1735,7 @@
             }
         ],
         "questionText": "Which is widely used in the plastic industry for manufacturing bakelite?",
-        "level": 5
+        "level": 4
     },
     "80": {
         "answers": [
@@ -1757,7 +1757,7 @@
             }
         ],
         "questionText": "Standard 18-carat gold sold in the market is",
-        "level": 1
+        "level": 4
     },
     "81": {
         "answers": [
@@ -1779,7 +1779,7 @@
             }
         ],
         "questionText": "For determination of the age of which among the following is carbon dating method used?",
-        "level": 3
+        "level": 1
     },
     "82": {
         "answers": [
@@ -1801,7 +1801,7 @@
             }
         ],
         "questionText": "A substance which readily forms colloidal solution in contact with water is called",
-        "level": 5
+        "level": 3
     },
     "83": {
         "answers": [
@@ -1867,7 +1867,7 @@
             }
         ],
         "questionText": "When formaldehyde and potassium hydroxide are heated, we get",
-        "level": 1
+        "level": 3
     },
     "86": {
         "answers": [
@@ -1889,7 +1889,7 @@
             }
         ],
         "questionText": "Which of the following acids is manufactured using sawdust?",
-        "level": 2
+        "level": 5
     },
     "87": {
         "answers": [
@@ -1911,7 +1911,7 @@
             }
         ],
         "questionText": "When conc H₂SO₄ is added to dry KNO₃, brown fumes are evolved. These fumes are due to",
-        "level": 3
+        "level": 5
     },
     "88": {
         "answers": [
@@ -1977,7 +1977,7 @@
             }
         ],
         "questionText": "Which of the following is used in dating archaeological findings?",
-        "level": 1
+        "level": 5
     },
     "91": {
         "answers": [
@@ -2021,7 +2021,7 @@
             }
         ],
         "questionText": "Preparation of ‘Dalda or Vanaspati’ ghee from vegetable oil utilizes the following process:",
-        "level": 2
+        "level": 4
     },
     "93": {
         "answers": [
@@ -2043,7 +2043,7 @@
             }
         ],
         "questionText": "Smoke is formed due to",
-        "level": 4
+        "level": 5
     },
     "94": {
         "answers": [
@@ -2065,7 +2065,7 @@
             }
         ],
         "questionText": "Which of the following chemicals is used in photography?",
-        "level": 3
+        "level": 5
     },
     "95": {
         "answers": [
@@ -2087,7 +2087,7 @@
             }
         ],
         "questionText": "Gobar gas contains mainly:",
-        "level": 4
+        "level": 2
     },
     "96": {
         "answers": [
@@ -2109,7 +2109,7 @@
             }
         ],
         "questionText": "Diamond and Graphite are",
-        "level": 4
+        "level": 3
     },
     "97": {
         "answers": [
@@ -2131,7 +2131,7 @@
             }
         ],
         "questionText": "Which of the following elements is non-radioactive ?",
-        "level": 5
+        "level": 4
     },
     "98": {
         "answers": [
@@ -2153,7 +2153,7 @@
             }
         ],
         "questionText": "Which one of the following Organic compounds has fruity smell?",
-        "level": 4
+        "level": 1
     },
     "99": {
         "answers": [
@@ -2175,7 +2175,7 @@
             }
         ],
         "questionText": "If there is no carbon dioxide in the earth’s atmosphere, the temperature of earth’s surface would be",
-        "level": 4
+        "level": 3
     },
     "100": {
         "answers": [
@@ -2197,7 +2197,7 @@
             }
         ],
         "questionText": "Quartz is made of",
-        "level": 2
+        "level": 4
     },
     "101": {
         "answers": [
@@ -2219,7 +2219,7 @@
             }
         ],
         "questionText": "Which gas is used as fire extinguisher?",
-        "level": 1
+        "level": 3
     },
     "102": {
         "answers": [
@@ -2241,7 +2241,7 @@
             }
         ],
         "questionText": "Petroleum consists of a mixture of",
-        "level": 3
+        "level": 4
     },
     "103": {
         "answers": [
@@ -2263,7 +2263,7 @@
             }
         ],
         "questionText": "The lustre of the metals is because of",
-        "level": 3
+        "level": 4
     },
     "104": {
         "answers": [
@@ -2285,7 +2285,7 @@
             }
         ],
         "questionText": "One of the following is used to dissolve noble metals. That is",
-        "level": 5
+        "level": 4
     },
     "105": {
         "answers": [
@@ -2307,7 +2307,7 @@
             }
         ],
         "questionText": "An emulsion is a colloid of a",
-        "level": 2
+        "level": 4
     },
     "106": {
         "answers": [
@@ -2329,7 +2329,7 @@
             }
         ],
         "questionText": "Percentage of carbon in steel ranges from",
-        "level": 3
+        "level": 4
     },
     "107": {
         "answers": [
@@ -2351,7 +2351,7 @@
             }
         ],
         "questionText": "Which of the following is not present in German-silver?",
-        "level": 5
+        "level": 2
     },
     "108": {
         "answers": [
@@ -2373,7 +2373,7 @@
             }
         ],
         "questionText": "The major harmful gas emitted by automobile vehicles which causes air pollution is",
-        "level": 2
+        "level": 4
     },
     "109": {
         "answers": [
@@ -2395,7 +2395,7 @@
             }
         ],
         "questionText": "Which one of the following is a major green house gas?",
-        "level": 5
+        "level": 4
     },
     "110": {
         "answers": [
@@ -2417,7 +2417,7 @@
             }
         ],
         "questionText": "The chemical name of ‘Common salt’ is",
-        "level": 3
+        "level": 4
     },
     "111": {
         "answers": [
@@ -2439,7 +2439,7 @@
             }
         ],
         "questionText": "Denatured spirit is ethanol mixed with",
-        "level": 4
+        "level": 3
     },
     "112": {
         "answers": [
@@ -2483,7 +2483,7 @@
             }
         ],
         "questionText": "The metal, which is a constituent of vitamin B₁₂ is",
-        "level": 1
+        "level": 2
     },
     "114": {
         "answers": [
@@ -2505,7 +2505,7 @@
             }
         ],
         "questionText": "The most abundant inert gas in the atmosphere is",
-        "level": 1
+        "level": 4
     },
     "115": {
         "answers": [
@@ -2527,7 +2527,7 @@
             }
         ],
         "questionText": "Which metal is extracted from seawater?",
-        "level": 4
+        "level": 5
     },
     "116": {
         "answers": [
@@ -2549,7 +2549,7 @@
             }
         ],
         "questionText": "Percentage of lead in lead pencils is",
-        "level": 3
+        "level": 5
     },
     "117": {
         "answers": [
@@ -2571,7 +2571,7 @@
             }
         ],
         "questionText": "Helium has is used in gas balloons instead of hydrogen gas because it is",
-        "level": 2
+        "level": 3
     },
     "118": {
         "answers": [
@@ -2593,7 +2593,7 @@
             }
         ],
         "questionText": "The gas used in the artificial ripening of fruits is",
-        "level": 3
+        "level": 2
     },
     "119": {
         "answers": [
@@ -2615,7 +2615,7 @@
             }
         ],
         "questionText": "Ruby and sapphire are oxides of",
-        "level": 2
+        "level": 4
     },
     "120": {
         "answers": [
@@ -2637,7 +2637,7 @@
             }
         ],
         "questionText": "The gas which turns into liquid at the lowest temperature among the following is",
-        "level": 5
+        "level": 3
     },
     "121": {
         "answers": [
@@ -2659,7 +2659,7 @@
             }
         ],
         "questionText": "Gunpowder consists of a mixture of",
-        "level": 1
+        "level": 3
     },
     "122": {
         "answers": [
@@ -2681,7 +2681,7 @@
             }
         ],
         "questionText": "Which of the following is the sweetest sugar?",
-        "level": 4
+        "level": 1
     },
     "123": {
         "answers": [
@@ -2703,7 +2703,7 @@
             }
         ],
         "questionText": "Which mixture of gases is mainly stored as a liquid under pressure in LPG cylinder?",
-        "level": 5
+        "level": 1
     },
     "124": {
         "answers": [
@@ -2725,7 +2725,7 @@
             }
         ],
         "questionText": "In nuclear reactors, graphite is used as a/an",
-        "level": 1
+        "level": 3
     },
     "125": {
         "answers": [
@@ -2747,7 +2747,7 @@
             }
         ],
         "questionText": "The process involved involved in making soap is",
-        "level": 4
+        "level": 5
     },
     "126": {
         "answers": [
@@ -2769,7 +2769,7 @@
             }
         ],
         "questionText": "Sea water can be purified by the process of",
-        "level": 5
+        "level": 3
     },
     "127": {
         "answers": [
@@ -2791,7 +2791,7 @@
             }
         ],
         "questionText": "The compound to which H₂ does not add is",
-        "level": 3
+        "level": 4
     },
     "128": {
         "answers": [
@@ -2813,7 +2813,7 @@
             }
         ],
         "questionText": "Ammonal is a mixture of",
-        "level": 2
+        "level": 5
     },
     "129": {
         "answers": [
@@ -2857,7 +2857,7 @@
             }
         ],
         "questionText": "The fuel used in an atomic reactor is",
-        "level": 4
+        "level": 5
     },
     "131": {
         "answers": [
@@ -2879,7 +2879,7 @@
             }
         ],
         "questionText": "The major constituent of gobar gas is",
-        "level": 1
+        "level": 3
     },
     "132": {
         "answers": [
@@ -2901,7 +2901,7 @@
             }
         ],
         "questionText": "The isotope of Uranium used in atomic reactors is",
-        "level": 2
+        "level": 1
     },
     "133": {
         "answers": [
@@ -2923,7 +2923,7 @@
             }
         ],
         "questionText": "Which one of the following is not a radio-active element?",
-        "level": 1
+        "level": 5
     },
     "134": {
         "answers": [
@@ -2945,7 +2945,7 @@
             }
         ],
         "questionText": "The major constituent of air is",
-        "level": 4
+        "level": 5
     },
     "135": {
         "answers": [
@@ -2967,7 +2967,7 @@
             }
         ],
         "questionText": "The greenhouse effect is caused by the higher level of which gas in the atmosphere?",
-        "level": 5
+        "level": 4
     },
     "136": {
         "answers": [
@@ -2989,7 +2989,7 @@
             }
         ],
         "questionText": "Candle is a mixture of",
-        "level": 2
+        "level": 1
     },
     "137": {
         "answers": [
@@ -3011,7 +3011,7 @@
             }
         ],
         "questionText": "Brass is an alloy of copper and",
-        "level": 1
+        "level": 3
     },
     "138": {
         "answers": [
@@ -3033,7 +3033,7 @@
             }
         ],
         "questionText": "The density of a gas is maximum at",
-        "level": 1
+        "level": 2
     },
     "139": {
         "answers": [
@@ -3055,7 +3055,7 @@
             }
         ],
         "questionText": "The important ore of aluminium is",
-        "level": 4
+        "level": 5
     },
     "140": {
         "answers": [
@@ -3077,7 +3077,7 @@
             }
         ],
         "questionText": "Aqua regia is a 1 : 3 mixture, by volume, of",
-        "level": 2
+        "level": 5
     },
     "141": {
         "answers": [
@@ -3099,7 +3099,7 @@
             }
         ],
         "questionText": "What is the maximum Water Vapour content in the atmosphere?",
-        "level": 3
+        "level": 2
     },
     "142": {
         "answers": [
@@ -3121,7 +3121,7 @@
             }
         ],
         "questionText": "The amount of chlorine available in water after disinfection is called as",
-        "level": 3
+        "level": 5
     },
     "143": {
         "answers": [
@@ -3143,7 +3143,7 @@
             }
         ],
         "questionText": "What are the major pollutants of cigarette smoke?",
-        "level": 1
+        "level": 2
     },
     "144": {
         "answers": [
@@ -3165,7 +3165,7 @@
             }
         ],
         "questionText": "Which of the following organisms is most likely to produce greenhouse gases such as nitrous oxide and methane?",
-        "level": 4
+        "level": 1
     },
     "145": {
         "answers": [
@@ -3209,7 +3209,7 @@
             }
         ],
         "questionText": "Rusting of iron takes place due to",
-        "level": 4
+        "level": 1
     },
     "147": {
         "answers": [
@@ -3231,7 +3231,7 @@
             }
         ],
         "questionText": "The highest grade and best equality coal is",
-        "level": 3
+        "level": 1
     },
     "148": {
         "answers": [
@@ -3253,7 +3253,7 @@
             }
         ],
         "questionText": "German silver used for making utensils is an alloy of",
-        "level": 4
+        "level": 3
     },
     "149": {
         "answers": [
@@ -3275,7 +3275,7 @@
             }
         ],
         "questionText": "The purity of gold is expressed in carats. The purest form of gold is",
-        "level": 4
+        "level": 1
     },
     "150": {
         "answers": [
@@ -3297,7 +3297,7 @@
             }
         ],
         "questionText": "The purest form of water is",
-        "level": 1
+        "level": 4
     },
     "151": {
         "answers": [
@@ -3341,7 +3341,7 @@
             }
         ],
         "questionText": "Ultraviolet radiation striking the earth is due to the depletion of",
-        "level": 1
+        "level": 2
     },
     "153": {
         "answers": [
@@ -3363,7 +3363,7 @@
             }
         ],
         "questionText": "Major gaseous pollutant of the thermal power station is",
-        "level": 3
+        "level": 2
     },
     "154": {
         "answers": [
@@ -3407,31 +3407,9 @@
             }
         ],
         "questionText": "The tip of the match-stick contains",
-        "level": 2
+        "level": 3
     },
     "156": {
-        "answers": [
-            {
-                "answerText": "A-3, B-2, C-1",
-                "correct": false
-            },
-            {
-                "answerText": "A-3, B-1, C-2",
-                "correct": true
-            },
-            {
-                "answerText": "A-2, B-3, C-1",
-                "correct": false
-            },
-            {
-                "answerText": "A-2, B-1, C-3",
-                "correct": false
-            }
-        ],
-        "questionText": "Match the following:",
-        "level": 4
-    },
-    "157": {
         "answers": [
             {
                 "answerText": "Washing soda",
@@ -3451,9 +3429,9 @@
             }
         ],
         "questionText": "Commercially, sodium bicarbonate is known as",
-        "level": 1
+        "level": 4
     },
-    "158": {
+    "157": {
         "answers": [
             {
                 "answerText": "stabilises an emulsion",
@@ -3473,9 +3451,9 @@
             }
         ],
         "questionText": "An emulsifier is an agent which",
-        "level": 4
+        "level": 3
     },
-    "159": {
+    "158": {
         "answers": [
             {
                 "answerText": "Slaked lime",
@@ -3495,9 +3473,9 @@
             }
         ],
         "questionText": "Mortar is a mixture of water, sand and",
-        "level": 4
+        "level": 3
     },
-    "160": {
+    "159": {
         "answers": [
             {
                 "answerText": "Helium",
@@ -3517,9 +3495,9 @@
             }
         ],
         "questionText": "Carbon monoxide is an inflammable gas. Which one of the following is also inflammable?",
-        "level": 2
+        "level": 3
     },
-    "161": {
+    "160": {
         "answers": [
             {
                 "answerText": "oxygen",
@@ -3539,9 +3517,9 @@
             }
         ],
         "questionText": "The main constituent of biogas is",
-        "level": 2
+        "level": 1
     },
-    "162": {
+    "161": {
         "answers": [
             {
                 "answerText": "Potassium",
@@ -3561,9 +3539,9 @@
             }
         ],
         "questionText": "Which one of the following metals does not react with water to produce Hydrogen?",
-        "level": 4
+        "level": 2
     },
-    "163": {
+    "162": {
         "answers": [
             {
                 "answerText": "Oxygen only",
@@ -3583,9 +3561,9 @@
             }
         ],
         "questionText": "Ozone consists of",
-        "level": 2
+        "level": 1
     },
-    "164": {
+    "163": {
         "answers": [
             {
                 "answerText": "Freshwater",
@@ -3605,9 +3583,9 @@
             }
         ],
         "questionText": "Which of the following liquids has the least density?",
-        "level": 3
+        "level": 5
     },
-    "165": {
+    "164": {
         "answers": [
             {
                 "answerText": "Ethane",
@@ -3627,9 +3605,9 @@
             }
         ],
         "questionText": "One of the constituents of tear gas is",
-        "level": 3
+        "level": 1
     },
-    "166": {
+    "165": {
         "answers": [
             {
                 "answerText": "Sodium",
@@ -3649,9 +3627,9 @@
             }
         ],
         "questionText": "An atomic clock is based on transitions in",
-        "level": 4
+        "level": 5
     },
-    "167": {
+    "166": {
         "answers": [
             {
                 "answerText": "Citric acid",
@@ -3671,9 +3649,9 @@
             }
         ],
         "questionText": "What is the chemical name of vinegar?",
-        "level": 3
+        "level": 2
     },
-    "168": {
+    "167": {
         "answers": [
             {
                 "answerText": "Boiling point of heavy water is lower than that or ordinary water",
@@ -3695,7 +3673,7 @@
         "questionText": "Which of the following is not a property of heavy water?",
         "level": 3
     },
-    "169": {
+    "168": {
         "answers": [
             {
                 "answerText": "oxidised in air",
@@ -3715,9 +3693,9 @@
             }
         ],
         "questionText": "Silver halides are used In photographic plates because they are",
-        "level": 2
+        "level": 1
     },
-    "170": {
+    "169": {
         "answers": [
             {
                 "answerText": "a catalyst in burning fossil fuel",
@@ -3737,9 +3715,9 @@
             }
         ],
         "questionText": "Tetra ethyle lead (TEL) is",
-        "level": 2
+        "level": 1
     },
-    "171": {
+    "170": {
         "answers": [
             {
                 "answerText": "Matter becomes radioactive",
@@ -3759,9 +3737,9 @@
             }
         ],
         "questionText": "Curie point is the temperature at which",
-        "level": 5
+        "level": 2
     },
-    "172": {
+    "171": {
         "answers": [
             {
                 "answerText": "methyl salicylate",
@@ -3781,9 +3759,9 @@
             }
         ],
         "questionText": "Aspirin is chemically known as",
-        "level": 5
+        "level": 4
     },
-    "173": {
+    "172": {
         "answers": [
             {
                 "answerText": "U-235",
@@ -3803,9 +3781,9 @@
             }
         ],
         "questionText": "The isotope used for the production of atomic energy is",
-        "level": 4
+        "level": 1
     },
-    "174": {
+    "173": {
         "answers": [
             {
                 "answerText": "Proton",
@@ -3825,9 +3803,9 @@
             }
         ],
         "questionText": "Which of the following is not a nucleon?",
-        "level": 1
+        "level": 3
     },
-    "175": {
+    "174": {
         "answers": [
             {
                 "answerText": "Graphite",
@@ -3847,9 +3825,9 @@
             }
         ],
         "questionText": "The material used in the manufacture of lead pencil is",
-        "level": 1
+        "level": 5
     },
-    "176": {
+    "175": {
         "answers": [
             {
                 "answerText": "Nickel",
@@ -3871,7 +3849,7 @@
         "questionText": "German silver, an alloy, does not contain the metal",
         "level": 3
     },
-    "177": {
+    "176": {
         "answers": [
             {
                 "answerText": "Sponge",
@@ -3893,7 +3871,7 @@
         "questionText": "Which substance is added to make natural rubber more strong and bouncy?",
         "level": 2
     },
-    "178": {
+    "177": {
         "answers": [
             {
                 "answerText": "Sodium salts of fatty acids",
@@ -3913,9 +3891,9 @@
             }
         ],
         "questionText": "Detergents are",
-        "level": 1
+        "level": 4
     },
-    "179": {
+    "178": {
         "answers": [
             {
                 "answerText": "neon",
@@ -3935,9 +3913,9 @@
             }
         ],
         "questionText": "The noble gas used in radiotherapy is",
-        "level": 3
+        "level": 1
     },
-    "180": {
+    "179": {
         "answers": [
             {
                 "answerText": "0.1 - 2% carbon",
@@ -3957,9 +3935,9 @@
             }
         ],
         "questionText": "Steel contains",
-        "level": 3
+        "level": 1
     },
-    "181": {
+    "180": {
         "answers": [
             {
                 "answerText": "Silver Iodide",
@@ -3979,9 +3957,9 @@
             }
         ],
         "questionText": "The chemical(s) most commonly used for cloud seeding or ‘artificial rainmaking’ is/are",
-        "level": 3
+        "level": 4
     },
-    "182": {
+    "181": {
         "answers": [
             {
                 "answerText": "benzene",
@@ -4003,7 +3981,7 @@
         "questionText": "White phosphorus is always kept under",
         "level": 4
     },
-    "183": {
+    "182": {
         "answers": [
             {
                 "answerText": "carbon",
@@ -4023,9 +4001,9 @@
             }
         ],
         "questionText": "The most abundant element in the human body is",
-        "level": 1
+        "level": 2
     },
-    "184": {
+    "183": {
         "answers": [
             {
                 "answerText": "Iron",
@@ -4045,9 +4023,9 @@
             }
         ],
         "questionText": "Galena is a mineral of",
-        "level": 5
+        "level": 3
     },
-    "185": {
+    "184": {
         "answers": [
             {
                 "answerText": "Aluminium and Magnesium",
@@ -4067,9 +4045,9 @@
             }
         ],
         "questionText": "Magnalium is an alloy of",
-        "level": 4
+        "level": 1
     },
-    "186": {
+    "185": {
         "answers": [
             {
                 "answerText": "Zinc",
@@ -4091,7 +4069,7 @@
         "questionText": "Galvanization of Iron is carried out using",
         "level": 1
     },
-    "187": {
+    "186": {
         "answers": [
             {
                 "answerText": "methane and ethylene",
@@ -4111,9 +4089,9 @@
             }
         ],
         "questionText": "Cooking gas is a mixture of",
-        "level": 1
+        "level": 2
     },
-    "188": {
+    "187": {
         "answers": [
             {
                 "answerText": "sand",
@@ -4133,9 +4111,9 @@
             }
         ],
         "questionText": "Dry powder fire extinguishers contain",
-        "level": 2
+        "level": 3
     },
-    "189": {
+    "188": {
         "answers": [
             {
                 "answerText": "Pyrex glass",
@@ -4155,9 +4133,9 @@
             }
         ],
         "questionText": "Which type of glass is used for making glass reinforced plastic?",
-        "level": 1
+        "level": 2
     },
-    "190": {
+    "189": {
         "answers": [
             {
                 "answerText": "Boron and Cadmium",
@@ -4177,9 +4155,9 @@
             }
         ],
         "questionText": "Two elements which are used to absorb neutrons to control the chain reaction during nuclear fission are",
-        "level": 4
+        "level": 2
     },
-    "191": {
+    "190": {
         "answers": [
             {
                 "answerText": "Silver Iodide (Agl)",
@@ -4201,7 +4179,7 @@
         "questionText": "The most commonly used chemicals in the artificial rainmaking or cloud seeding are",
         "level": 5
     },
-    "192": {
+    "191": {
         "answers": [
             {
                 "answerText": "Boron",
@@ -4221,9 +4199,9 @@
             }
         ],
         "questionText": "Which of the following can be used to absorb neutrons to control the chain reaction during nuclear fission?",
-        "level": 3
+        "level": 4
     },
-    "193": {
+    "192": {
         "answers": [
             {
                 "answerText": "Hydrogen",
@@ -4243,9 +4221,9 @@
             }
         ],
         "questionText": "Which of the following is not a greenhouse gas?",
-        "level": 5
+        "level": 1
     },
-    "194": {
+    "193": {
         "answers": [
             {
                 "answerText": "controlled fission reaction",
@@ -4267,7 +4245,7 @@
         "questionText": "Hydrogen bomb is based on the principle of",
         "level": 1
     },
-    "195": {
+    "194": {
         "answers": [
             {
                 "answerText": "aliphatic hydrocarbons",
@@ -4289,7 +4267,7 @@
         "questionText": "Wax used for making candle is chemically a mixture of",
         "level": 3
     },
-    "196": {
+    "195": {
         "answers": [
             {
                 "answerText": "a bacterium",
@@ -4309,9 +4287,9 @@
             }
         ],
         "questionText": "Litmus is obtained from",
-        "level": 5
+        "level": 3
     },
-    "197": {
+    "196": {
         "answers": [
             {
                 "answerText": "palmitic acid",
@@ -4331,9 +4309,9 @@
             }
         ],
         "questionText": "Vinegar made by fermentation from cane sugar contains",
-        "level": 3
+        "level": 1
     },
-    "198": {
+    "197": {
         "answers": [
             {
                 "answerText": "light",
@@ -4353,9 +4331,9 @@
             }
         ],
         "questionText": "Photooxidation process is initiated by",
-        "level": 1
+        "level": 2
     },
-    "199": {
+    "198": {
         "answers": [
             {
                 "answerText": "nitrates",
@@ -4377,7 +4355,7 @@
         "questionText": "Detergents used for cleaning clothes and utensils contain",
         "level": 4
     },
-    "200": {
+    "199": {
         "answers": [
             {
                 "answerText": "Borax",
@@ -4397,9 +4375,9 @@
             }
         ],
         "questionText": "Which of the following compounds is commonly used as an antiseptic in mouthwashes and toothpastes ?",
-        "level": 3
+        "level": 4
     },
-    "201": {
+    "200": {
         "answers": [
             {
                 "answerText": "Ozone",
@@ -4419,9 +4397,9 @@
             }
         ],
         "questionText": "Which one of the following is used to restore the colour of old oil paintings ?",
-        "level": 3
+        "level": 2
     },
-    "202": {
+    "201": {
         "answers": [
             {
                 "answerText": "Solution",
@@ -4443,7 +4421,7 @@
         "questionText": "Milk is a natural",
         "level": 5
     },
-    "203": {
+    "202": {
         "answers": [
             {
                 "answerText": "Rayon",
@@ -4463,9 +4441,9 @@
             }
         ],
         "questionText": "A polymeric substance used to make parachute is",
-        "level": 4
+        "level": 3
     },
-    "204": {
+    "203": {
         "answers": [
             {
                 "answerText": "Alkaline",
@@ -4485,9 +4463,9 @@
             }
         ],
         "questionText": "Drinking soda is",
-        "level": 4
+        "level": 5
     },
-    "205": {
+    "204": {
         "answers": [
             {
                 "answerText": "Zinc",
@@ -4507,9 +4485,9 @@
             }
         ],
         "questionText": "The cathode of a lead storage battery is made up of",
-        "level": 1
+        "level": 2
     },
-    "206": {
+    "205": {
         "answers": [
             {
                 "answerText": "Cesium",
@@ -4529,9 +4507,9 @@
             }
         ],
         "questionText": "Which one of the following is radioactive ?",
-        "level": 3
+        "level": 4
     },
-    "207": {
+    "206": {
         "answers": [
             {
                 "answerText": "phosphoric acid",
@@ -4551,9 +4529,9 @@
             }
         ],
         "questionText": "The acid used in lead storage cells is",
-        "level": 5
+        "level": 3
     },
-    "208": {
+    "207": {
         "answers": [
             {
                 "answerText": "solvation",
@@ -4573,9 +4551,9 @@
             }
         ],
         "questionText": "Alum stops bleeding in minor cuts because of",
-        "level": 4
+        "level": 2
     },
-    "209": {
+    "208": {
         "answers": [
             {
                 "answerText": "potassium iodide",
@@ -4595,9 +4573,9 @@
             }
         ],
         "questionText": "Tincture iodine is a solution of iodine in",
-        "level": 3
+        "level": 5
     },
-    "210": {
+    "209": {
         "answers": [
             {
                 "answerText": "radium",
@@ -4617,9 +4595,9 @@
             }
         ],
         "questionText": "Radioactive disintegration of uranium ultimately results in formation of",
-        "level": 3
+        "level": 5
     },
-    "211": {
+    "210": {
         "answers": [
             {
                 "answerText": "epsom salt",
@@ -4639,9 +4617,9 @@
             }
         ],
         "questionText": "‘Plaster of Paris’ is made by partial dehydration of",
-        "level": 5
+        "level": 1
     },
-    "212": {
+    "211": {
         "answers": [
             {
                 "answerText": "decantation",
@@ -4661,9 +4639,9 @@
             }
         ],
         "questionText": "Water can lie separated from alcohol water mixture by",
-        "level": 4
+        "level": 2
     },
-    "213": {
+    "212": {
         "answers": [
             {
                 "answerText": "elements",
@@ -4683,9 +4661,9 @@
             }
         ],
         "questionText": "Petroleum is a mixture of",
-        "level": 2
+        "level": 3
     },
-    "214": {
+    "213": {
         "answers": [
             {
                 "answerText": "helium",
@@ -4705,9 +4683,9 @@
             }
         ],
         "questionText": "The gas used for filling weather balloons is",
-        "level": 1
+        "level": 3
     },
-    "215": {
+    "214": {
         "answers": [
             {
                 "answerText": "it is highly inflammable",
@@ -4727,9 +4705,9 @@
             }
         ],
         "questionText": "Hydrogen is not found in atmosphere because",
-        "level": 2
+        "level": 5
     },
-    "216": {
+    "215": {
         "answers": [
             {
                 "answerText": "Madam Curie",
@@ -4751,7 +4729,7 @@
         "questionText": "Who discovered the atom bomb?",
         "level": 1
     },
-    "217": {
+    "216": {
         "answers": [
             {
                 "answerText": "Sodium oxide and argon",
@@ -4771,9 +4749,9 @@
             }
         ],
         "questionText": "What is the most commonly used substance in fluorescent tubes?",
-        "level": 4
+        "level": 5
     },
-    "218": {
+    "217": {
         "answers": [
             {
                 "answerText": "Magnesium carbonate",
@@ -4793,9 +4771,9 @@
             }
         ],
         "questionText": "What is “milk of magnesia” chemically?",
-        "level": 2
+        "level": 4
     },
-    "219": {
+    "218": {
         "answers": [
             {
                 "answerText": "Alcohol",
@@ -4815,9 +4793,9 @@
             }
         ],
         "questionText": "Soap is prepared by boiling caustic soda with",
-        "level": 5
+        "level": 3
     },
-    "220": {
+    "219": {
         "answers": [
             {
                 "answerText": "Copper",
@@ -4837,9 +4815,9 @@
             }
         ],
         "questionText": "Which one of the following metals is used to galvanise iron ?",
-        "level": 1
+        "level": 2
     },
-    "221": {
+    "220": {
         "answers": [
             {
                 "answerText": "Sulphur",
@@ -4859,9 +4837,9 @@
             }
         ],
         "questionText": "Which of the following is used in making smoke bombs?",
-        "level": 2
+        "level": 4
     },
-    "222": {
+    "221": {
         "answers": [
             {
                 "answerText": "Copper and Zinc",
@@ -4881,9 +4859,9 @@
             }
         ],
         "questionText": "Bronze is an alloy of",
-        "level": 5
+        "level": 1
     },
-    "223": {
+    "222": {
         "answers": [
             {
                 "answerText": "Crude oil",
@@ -4903,9 +4881,9 @@
             }
         ],
         "questionText": "The natural source of hydro-car-bon is",
-        "level": 5
+        "level": 4
     },
-    "224": {
+    "223": {
         "answers": [
             {
                 "answerText": "Methane",
@@ -4925,9 +4903,9 @@
             }
         ],
         "questionText": "Which of the following is chiefly present in LPG (Liquefied Petroleum Gas) ?",
-        "level": 4
+        "level": 1
     },
-    "225": {
+    "224": {
         "answers": [
             {
                 "answerText": "Chlorine",
@@ -4947,9 +4925,9 @@
             }
         ],
         "questionText": "An element which does not react with oxygen is",
-        "level": 4
+        "level": 2
     },
-    "226": {
+    "225": {
         "answers": [
             {
                 "answerText": "Copper sulphate",
@@ -4969,9 +4947,9 @@
             }
         ],
         "questionText": "The chemical used for destroying Fungi in water tanks is",
-        "level": 2
+        "level": 4
     },
-    "227": {
+    "226": {
         "answers": [
             {
                 "answerText": "Sodium",
@@ -4991,9 +4969,9 @@
             }
         ],
         "questionText": "Which among the following metals provides amphoteric oxide?",
-        "level": 4
+        "level": 5
     },
-    "228": {
+    "227": {
         "answers": [
             {
                 "answerText": "Methylene blue",
@@ -5015,7 +4993,7 @@
         "questionText": "Which among the following stage is suitable indicator when solution of sodium carbonate is mixed with sulphuric acid ?",
         "level": 4
     },
-    "229": {
+    "228": {
         "answers": [
             {
                 "answerText": "Carbon-dioxide",
@@ -5035,9 +5013,9 @@
             }
         ],
         "questionText": "Which among the following is pure matter ?",
-        "level": 3
+        "level": 5
     },
-    "230": {
+    "229": {
         "answers": [
             {
                 "answerText": "Aluminium",
@@ -5057,9 +5035,9 @@
             }
         ],
         "questionText": "Bauxite is an alloy of which of the following metals ?",
-        "level": 1
+        "level": 2
     },
-    "231": {
+    "230": {
         "answers": [
             {
                 "answerText": "Proton",
@@ -5081,7 +5059,7 @@
         "questionText": "Nucleus of an atom consists of",
         "level": 1
     },
-    "232": {
+    "231": {
         "answers": [
             {
                 "answerText": "copper, nickel and silver",
@@ -5101,9 +5079,9 @@
             }
         ],
         "questionText": "German silver is an alloy of",
-        "level": 1
+        "level": 3
     },
-    "233": {
+    "232": {
         "answers": [
             {
                 "answerText": "Zinc",
@@ -5123,9 +5101,9 @@
             }
         ],
         "questionText": "Galvanised iron is made by coating iron with",
-        "level": 5
+        "level": 3
     },
-    "234": {
+    "233": {
         "answers": [
             {
                 "answerText": "Detergents are soluble in water",
@@ -5145,9 +5123,9 @@
             }
         ],
         "questionText": "The advantage of detergents over soaps is",
-        "level": 3
+        "level": 2
     },
-    "235": {
+    "234": {
         "answers": [
             {
                 "answerText": "Electron, proton",
@@ -5167,9 +5145,9 @@
             }
         ],
         "questionText": "The fundamental particles present in the nucleus of an atom are",
-        "level": 4
+        "level": 3
     },
-    "236": {
+    "235": {
         "answers": [
             {
                 "answerText": "basic property",
@@ -5189,9 +5167,9 @@
             }
         ],
         "questionText": "Bleaching action of moist sulphur di-oxide is because of its",
-        "level": 3
+        "level": 2
     },
-    "237": {
+    "236": {
         "answers": [
             {
                 "answerText": "thorium",
@@ -5211,9 +5189,9 @@
             }
         ],
         "questionText": "The long range potential of nuclear energy in India depends on its reserves of",
-        "level": 4
+        "level": 5
     },
-    "238": {
+    "237": {
         "answers": [
             {
                 "answerText": "He",
@@ -5233,9 +5211,9 @@
             }
         ],
         "questionText": "Which of the following gases will effuse out of football bladder most quickly?",
-        "level": 4
+        "level": 1
     },
-    "239": {
+    "238": {
         "answers": [
             {
                 "answerText": "Caesium",
@@ -5255,9 +5233,9 @@
             }
         ],
         "questionText": "Which of the following alkali metals has highest specific heat?",
-        "level": 1
+        "level": 3
     },
-    "240": {
+    "239": {
         "answers": [
             {
                 "answerText": "Graphite",
@@ -5277,9 +5255,9 @@
             }
         ],
         "questionText": "In which of the following substances all carbon ale quaternary in nature ?",
-        "level": 1
+        "level": 5
     },
-    "241": {
+    "240": {
         "answers": [
             {
                 "answerText": "Crystal violet",
@@ -5299,9 +5277,9 @@
             }
         ],
         "questionText": "Which of the following is natural dye ?",
-        "level": 3
+        "level": 5
     },
-    "242": {
+    "241": {
         "answers": [
             {
                 "answerText": "Oxides of nitrogen",
@@ -5323,7 +5301,7 @@
         "questionText": "Global warming is mainly due to accumulation of",
         "level": 5
     },
-    "243": {
+    "242": {
         "answers": [
             {
                 "answerText": "silver",
@@ -5345,7 +5323,7 @@
         "questionText": "A metal is exposed to the atmosphere for sometime. It becomes coated with green carbonate. The metal must be",
         "level": 1
     },
-    "244": {
+    "243": {
         "answers": [
             {
                 "answerText": "Carbon dioxide",
@@ -5365,9 +5343,9 @@
             }
         ],
         "questionText": "Which is abundant in Gobar gas?",
-        "level": 2
+        "level": 1
     },
-    "245": {
+    "244": {
         "answers": [
             {
                 "answerText": "Ice Cream",
@@ -5387,9 +5365,9 @@
             }
         ],
         "questionText": "Which of the following is a supercooled liquid ?",
-        "level": 1
+        "level": 4
     },
-    "246": {
+    "245": {
         "answers": [
             {
                 "answerText": "Kerosene",
@@ -5409,9 +5387,9 @@
             }
         ],
         "questionText": "Which of the following is used to remove rust stains on cloth?",
-        "level": 3
+        "level": 1
     },
-    "247": {
+    "246": {
         "answers": [
             {
                 "answerText": "Tartaric acid",
@@ -5431,9 +5409,9 @@
             }
         ],
         "questionText": "Curd is sour due to presence of",
-        "level": 3
+        "level": 4
     },
-    "248": {
+    "247": {
         "answers": [
             {
                 "answerText": "Chloroprene",
@@ -5453,9 +5431,9 @@
             }
         ],
         "questionText": "Tear gas is :",
-        "level": 1
+        "level": 3
     },
-    "249": {
+    "248": {
         "answers": [
             {
                 "answerText": "O₃ layer",
@@ -5475,9 +5453,9 @@
             }
         ],
         "questionText": "Supersonic jet causes pollution by thinning of",
-        "level": 2
+        "level": 4
     },
-    "250": {
+    "249": {
         "answers": [
             {
                 "answerText": "air exerts an upward force on the balloon",
@@ -5497,9 +5475,9 @@
             }
         ],
         "questionText": "A balloon filled with helium rises in air because",
-        "level": 3
+        "level": 1
     },
-    "251": {
+    "250": {
         "answers": [
             {
                 "answerText": "Crystallisation",
@@ -5519,9 +5497,9 @@
             }
         ],
         "questionText": "Cooking oil is converted into vegetable ghee by the process of-",
-        "level": 3
+        "level": 4
     },
-    "252": {
+    "251": {
         "answers": [
             {
                 "answerText": "oxygen and carbon dioxide",
@@ -5541,9 +5519,9 @@
             }
         ],
         "questionText": "Rusting of iron requires –",
-        "level": 3
+        "level": 1
     },
-    "253": {
+    "252": {
         "answers": [
             {
                 "answerText": "pure solid",
@@ -5563,9 +5541,9 @@
             }
         ],
         "questionText": "Glass is a –",
-        "level": 2
+        "level": 1
     },
-    "254": {
+    "253": {
         "answers": [
             {
                 "answerText": "Radium",
@@ -5585,9 +5563,9 @@
             }
         ],
         "questionText": "Uranium eventually decays into a stable isotope of –",
-        "level": 3
+        "level": 5
     },
-    "255": {
+    "254": {
         "answers": [
             {
                 "answerText": "Nickel",
@@ -5607,9 +5585,9 @@
             }
         ],
         "questionText": "Which of the toxic heavy metals is found in modern tannery industries?",
-        "level": 5
+        "level": 2
     },
-    "256": {
+    "255": {
         "answers": [
             {
                 "answerText": "Fusion reaction",
@@ -5631,7 +5609,7 @@
         "questionText": "Which type of reaction produces the most harmful radiation?",
         "level": 3
     },
-    "257": {
+    "256": {
         "answers": [
             {
                 "answerText": "Coal",
@@ -5651,9 +5629,9 @@
             }
         ],
         "questionText": "Which of the following contains high content of lead?",
-        "level": 1
+        "level": 3
     },
-    "258": {
+    "257": {
         "answers": [
             {
                 "answerText": "chromium and carbon",
@@ -5673,9 +5651,9 @@
             }
         ],
         "questionText": "Stainless steel is an alloy of",
-        "level": 3
+        "level": 2
     },
-    "259": {
+    "258": {
         "answers": [
             {
                 "answerText": "sand, soda, limestone",
@@ -5695,9 +5673,9 @@
             }
         ],
         "questionText": "Raw materials used for the manufacture of glass are",
-        "level": 3
+        "level": 1
     },
-    "260": {
+    "259": {
         "answers": [
             {
                 "answerText": "Aluminium sulphate",
@@ -5717,9 +5695,9 @@
             }
         ],
         "questionText": "Which of the following is used in welding broken pieces of iron rails and machine parts?",
-        "level": 1
+        "level": 3
     },
-    "261": {
+    "260": {
         "answers": [
             {
                 "answerText": "amount of organic debris",
@@ -5741,7 +5719,7 @@
         "questionText": "The BOD values of water indicate the",
         "level": 4
     },
-    "262": {
+    "261": {
         "answers": [
             {
                 "answerText": "Khandasari",
@@ -5761,9 +5739,9 @@
             }
         ],
         "questionText": "The product used for manufacturing of Industrial alcohol is",
-        "level": 3
+        "level": 4
     },
-    "263": {
+    "262": {
         "answers": [
             {
                 "answerText": "Gold, Sodium and Chromium",
@@ -5783,9 +5761,9 @@
             }
         ],
         "questionText": "The metals commonly used for electroplating are",
-        "level": 2
+        "level": 1
     },
-    "264": {
+    "263": {
         "answers": [
             {
                 "answerText": "Oxides of nitrogen",
@@ -5805,9 +5783,9 @@
             }
         ],
         "questionText": "Which of the following in automobile exhaust can cause cancer?",
-        "level": 4
+        "level": 3
     },
-    "265": {
+    "264": {
         "answers": [
             {
                 "answerText": "Infrared",
@@ -5827,9 +5805,9 @@
             }
         ],
         "questionText": "In the absence of ozone layer, which rays will enter into atmosphere?",
-        "level": 2
+        "level": 1
     },
-    "266": {
+    "265": {
         "answers": [
             {
                 "answerText": "Calcium silicate and calcium aluminate",
@@ -5849,9 +5827,9 @@
             }
         ],
         "questionText": "Cement is usually a mixture of:",
-        "level": 5
+        "level": 3
     },
-    "267": {
+    "266": {
         "answers": [
             {
                 "answerText": "Nitrogen",
@@ -5871,9 +5849,9 @@
             }
         ],
         "questionText": "Electric bulbs are filled with :",
-        "level": 2
+        "level": 3
     },
-    "268": {
+    "267": {
         "answers": [
             {
                 "answerText": "reduces evaporation of petrol",
@@ -5895,7 +5873,7 @@
         "questionText": "Glycol is added to aviation gasoline because it",
         "level": 2
     },
-    "269": {
+    "268": {
         "answers": [
             {
                 "answerText": "Sodium",
@@ -5915,9 +5893,9 @@
             }
         ],
         "questionText": "Now-a-days yellow lamps are frequently used as street lights. Which of the following gases is used in these lamps?",
-        "level": 5
+        "level": 2
     },
-    "270": {
+    "269": {
         "answers": [
             {
                 "answerText": "Pyrex glass",
@@ -5937,9 +5915,9 @@
             }
         ],
         "questionText": "Lens is made up of",
-        "level": 3
+        "level": 2
     },
-    "271": {
+    "270": {
         "answers": [
             {
                 "answerText": "Potassium carbonate",
@@ -5961,7 +5939,7 @@
         "questionText": "Which of the following is responsible for the extra strength of pyrex glass?",
         "level": 3
     },
-    "272": {
+    "271": {
         "answers": [
             {
                 "answerText": "increasing the strength of cement",
