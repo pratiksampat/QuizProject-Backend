@@ -2,10 +2,9 @@ var jwt = require('jsonwebtoken');
 var User = require('../models/user');
 var authConfig = require('../../config/auth');
 var questionnaire = require('../models/quizdata');
-const EventEmitter = require('events');
-
-const Stream = new EventEmitter();
-
+const events = require('events');
+const Stream = new events.EventEmitter();
+var data = null;
 exports.getQuestions = async function(req, res, next){
     var email = req.headers.email;
     var challenger = req.body.challenger;
@@ -77,12 +76,29 @@ exports.FindChallenge = async function(req, res, next){
 
 exports.challenge = async function(req,res,next){
     var email = req.headers.email;
-    var chal = req.body.chal;
-    res.writeHead(200, { 'Content-Type': 'text/event-stream' });
-    Stream.emit("challengeEvent",{"user": chal});
-    res.write("done");
-    res.end();
-    // res.status(200).send({"success": "challenged"});
+    var chal = req.body.chal;    
+    // res.write("done");
+    // res.end();
+    data = {
+        "challenger_email": email,
+        "challengee_email": chal
+    }
+    Stream.emit("challengeEvent", data);
+    res.send({"success": "challenged"});
+}
+
+exports.sse = async function(req, res, next){
+    res.writeHead(200, {
+        'Content-Type': 'text/event-stream',
+        'Cache-Control': 'no-cache',
+        'Connection': 'keep-alive'
+    });
+    res.write('\n');
+    Stream.once('challengeEvent', function(data){
+        var dat = JSON.stringify(data);
+        var final_data = "data: " + dat + "\n\n";
+        res.write(final_data);
+    });
 }
 
 function getRandomkey(min, max) {
