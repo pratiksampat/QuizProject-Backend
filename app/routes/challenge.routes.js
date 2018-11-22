@@ -10,4 +10,6 @@ module.exports = (app) => {
     app.get('/challenge/FindChallenge',challengeController.FindChallenge); // Find a challenger
     app.post('/challenge',challengeController.challenge); // sse a challenger
     app.get('/stream', challengeController.sse);
+    app.get('/challenge/getAllChallenges',challengeController.getAllChallenges);
+    app.post('/challenge/deleteChallenge',challengeController.deleteChallenge)
 }

@@ -101,6 +101,38 @@ exports.sse = async function(req, res, next){
     });
 }
 
+exports.getAllChallenges = async function(req,res,next){
+    var email = req.headers.email;
+    var user = await User.findOne({email:email});
+    if(!user)
+        return res.status(422).send({error: 'No user found'});
+    return res.status(200).send({"challenges": user.challenge});
+}
+
+exports.deleteChallenge = async function(req,res,next){
+    var email = req.headers.email;
+    var chal = req.body.chal;
+    var user = await User.findOne({email:email});
+    if(!user)
+        return res.status(422).send({error: 'No user found'});
+    // console.log(user.challenge[0]);
+    // console.log(user.challenge[2].challenger);
+    for(var i=0; i<user.challenge.length; i++){
+        if(user.challenge[i].challenger == chal){
+            console.log("Entered");
+            user.challenge.splice(i,1);
+        }
+    }
+    try{
+        await user.save();
+    }
+    catch(err){
+        console.log(err);
+    }
+    return res.status(200).send({"success": "success"});
+    
+}
+
 function getRandomkey(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
