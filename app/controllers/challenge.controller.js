@@ -6,7 +6,7 @@ const events = require('events');
 const Stream = new events.EventEmitter();
 var data = null;
 exports.getQuestions = async function(req, res, next){
-    var email = req.headers.email;
+    var email = req.user.email;
     var challenger = req.body.challenger;
     var challengee = req.body.challengee;
     var numberQuestions = 10 ; 
@@ -58,7 +58,7 @@ exports.getQuestions = async function(req, res, next){
 
 //Find somebody to challenege and send them a challenge request
 exports.FindChallenge = async function(req, res, next){
-    var email = req.headers.email;
+    var email = req.user.email;
     var user = await User.findOne({email:email});
     if(!user)
         return res.status(422).send({error: 'No user found'});
@@ -75,7 +75,7 @@ exports.FindChallenge = async function(req, res, next){
 }
 
 exports.challenge = async function(req,res,next){
-    var email = req.headers.email;
+    var email = req.user.email;
     var chal = req.body.chal;    
     // res.write("done");
     // res.end();
@@ -102,7 +102,7 @@ exports.sse = async function(req, res, next){
 }
 
 exports.getAllChallenges = async function(req,res,next){
-    var email = req.headers.email;
+    var email = req.user.email;
     var user = await User.findOne({email:email});
     if(!user)
         return res.status(422).send({error: 'No user found'});
@@ -110,7 +110,7 @@ exports.getAllChallenges = async function(req,res,next){
 }
 
 exports.deleteChallenge = async function(req,res,next){
-    var email = req.headers.email;
+    var email = req.user.email;
     var chal = req.body.chal;
     var user = await User.findOne({email:email});
     if(!user)
