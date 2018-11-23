@@ -3,7 +3,7 @@ var User = require('../models/user');
 var authConfig = require('../../config/auth');
 var questionnaire = require('../models/quizdata');
 exports.nextQuestion = async function(req, res, next){
-    var email = req.headers.email;
+    var email = req.user.email;
     var level = req.body.level;
 
     var user = await User.findOne({email:email});

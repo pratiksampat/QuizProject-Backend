@@ -6,5 +6,5 @@ var quizController = require('../controllers/quiz.controller'),
 var requireAuth = passport.authenticate('jwt',{session: false});
 var requireLogin = passport.authenticate('local', {session:false});
 module.exports = (app) => {
-    app.post('/quiz/nextQuestion',quizController.nextQuestion);
+    app.post('/quiz/nextQuestion',requireAuth,quizController.nextQuestion);
 }
